@@ -1,0 +1,593 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1920.0,
+  "height" : 1042.0,
+  "version" : "5.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "21.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "Rec 7-04-2022(3).trec",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20220407T203645",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1545],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : "60291/2500",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 7-04-2022(3).trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        },
+        {
+          "range" : [0, 2275328],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -20.7091853856058,
+          "peakLevel" : 0.997836053371429,
+          "metaData" : "Rec 7-04-2022(3).trec;"
+        },
+        {
+          "range" : [0, 2274304],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -29.1230540354982,
+          "peakLevel" : 0.147150531411171,
+          "metaData" : "Rec 7-04-2022(3).trec;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220407T203646.058673"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "Rec 7-04-2022(4).trec",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20220407T203859",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1440],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : "236667/10000",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 7-04-2022(4).trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        },
+        {
+          "range" : [0, 2118656],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -22.7124716638095,
+          "peakLevel" : 1.00446736812592,
+          "metaData" : "Rec 7-04-2022(4).trec;"
+        },
+        {
+          "range" : [0, 2116608],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -29.5691034838424,
+          "peakLevel" : 0.141549184918404,
+          "metaData" : "Rec 7-04-2022(4).trec;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220407T203859.619334"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "Rec 7-04-2022(5).trec",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20220407T204306",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1968],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : "9561/400",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 7-04-2022(5).trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        },
+        {
+          "range" : [0, 2894848],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -21.378493497137,
+          "peakLevel" : 0.997813940048218,
+          "metaData" : "Rec 7-04-2022(5).trec;"
+        },
+        {
+          "range" : [0, 2893824],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -29.1679254215233,
+          "peakLevel" : 0.146160334348679,
+          "metaData" : "Rec 7-04-2022(5).trec;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220407T204307.345904"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "Rec 7-04-2022(6).trec",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20220407T204729",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1804],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : "239303/10000",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 7-04-2022(6).trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        },
+        {
+          "range" : [0, 2655232],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -22.8257390981548,
+          "peakLevel" : 1.00884699821472,
+          "metaData" : "Rec 7-04-2022(6).trec;"
+        },
+        {
+          "range" : [0, 2655232],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -28.7189575080671,
+          "peakLevel" : 0.166496589779854,
+          "metaData" : "Rec 7-04-2022(6).trec;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220407T204730.977749"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "Rec 7-04-2022(7).trec",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20220407T204949",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 2564],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : "121627/5000",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 7-04-2022(7).trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        },
+        {
+          "range" : [0, 3774464],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -22.424727385254,
+          "peakLevel" : 0.99785315990448,
+          "metaData" : "Rec 7-04-2022(7).trec;"
+        },
+        {
+          "range" : [0, 3773440],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -28.9979884108139,
+          "peakLevel" : 0.158082291483879,
+          "metaData" : "Rec 7-04-2022(7).trec;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220407T204950.422050"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "Rec 7-04-2022(8).trec",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20220407T205253",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1378],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : "235779/10000",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 7-04-2022(8).trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        },
+        {
+          "range" : [0, 2030592],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -23.8628797280625,
+          "peakLevel" : 1.00187563896179,
+          "metaData" : "Rec 7-04-2022(8).trec;"
+        },
+        {
+          "range" : [0, 2027520],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -25.8026728814216,
+          "peakLevel" : 0.301763772964478,
+          "metaData" : "Rec 7-04-2022(8).trec;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220407T205253.992711"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "Rec 7-04-2022(9).trec",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20220407T205516",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 2396],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : "117823/5000",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 7-04-2022(9).trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        },
+        {
+          "range" : [0, 3525632],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -24.3928681783648,
+          "peakLevel" : 0.99747222661972,
+          "metaData" : "Rec 7-04-2022(9).trec;"
+        },
+        {
+          "range" : [0, 3526656],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -26.1924615158331,
+          "peakLevel" : 0.266934275627136,
+          "metaData" : "Rec 7-04-2022(9).trec;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220407T205517.754075"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 8,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 9,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 10,
+                          "_type" : "ScreenVMFile",
+                          "src" : 4,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 7-04-2022(6)"
+                          },
+                          "parameters" : {
+                            "sourceCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr"
+                            },
+                            "cursorLocation" : {
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 1804,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 1804,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 11,
+                          "_type" : "AMFile",
+                          "src" : 4,
+                          "trackNumber" : 2,
+                          "attributes" : {
+                            "ident" : "",
+                            "gain" : 1.0,
+                            "mixToMono" : false,
+                            "loudnessNormalization" : true,
+                            "sourceFileOffset" : 0
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 1804,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 1804,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 0,
+                    "duration" : 1804,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1804,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : false
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 12,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 1,
+                    "attributes" : {
+                      "ident" : "Rec 7-04-2022(6)",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1806,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1806,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 62,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\jesus\\AppData\\Local\\TechSmith\\Camtasia Studio\\21.0\\Auto-Saves\\Proyecto sin título338a56.autosave.tscproj",
+    "CanvasZoom" : 57,
+    "Date" : "jueves-04-07 03:19:01 p. m.",
+    "IsAutoSave" : false,
+    "IsStandalone" : true,
+    "Language" : "ESN",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "SCI - Entregable 1",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic"
+  }
+}
